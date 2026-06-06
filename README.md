@@ -1,7 +1,8 @@
+```html
 <h1 align="center">Hola 👋, mi nombre es Hugo Erazo</h1>
 
 <h3 align="center">
-  Gerente de Sistemas | Seguridad Informática | Desarrollo de Software | Infraestructura TI
+  Gerente de Sistemas | Seguridad Informática | Desarrollo Web | Infraestructura TI
 </h3>
 
 <p align="center">
@@ -22,21 +23,21 @@
 
 <p>
 Soy profesional de tecnología con experiencia en gestión de sistemas, seguridad informática, infraestructura TI, redes, bases de datos y desarrollo de software.
-Actualmente me desempeño en el área de Sistemas, apoyando proyectos de transformación digital, cumplimiento normativo, ciberseguridad, continuidad operativa y modernización tecnológica.
+He participado en proyectos relacionados con administración de plataformas tecnológicas, continuidad operativa, soporte institucional, modernización de sistemas, automatización de procesos y mejora de controles tecnológicos.
 </p>
 
 <p>
-Además, tengo experiencia como docente universitario en áreas relacionadas con informática, programación, algoritmos, estructuras de datos y tecnologías aplicadas.
-También desarrollo soluciones web, dashboards, sistemas internos y herramientas para automatizar procesos empresariales.
+También cuento con experiencia en docencia universitaria en áreas de informática, programación, algoritmos, estructuras de datos y análisis de sistemas.
+Me interesa desarrollar soluciones prácticas, seguras y funcionales que ayuden a las organizaciones a mejorar sus procesos y tomar mejores decisiones.
 </p>
 
 <ul>
-  <li>🚀 Desarrollo de aplicaciones web con JavaScript, React, Node.js y tecnologías modernas.</li>
-  <li>🛡️ Experiencia en Seguridad Informática, cumplimiento normativo y gestión de riesgos tecnológicos.</li>
-  <li>🌐 Administración de infraestructura, redes, servidores, firewalls y servicios en la nube.</li>
-  <li>🗄️ Trabajo con bases de datos SQL Server, consultas, reportes y optimización de procesos.</li>
-  <li>📊 Diseño de dashboards, reportes ejecutivos e indicadores para toma de decisiones.</li>
-  <li>🎓 Docente en áreas de informática, programación y análisis de sistemas.</li>
+  <li>🛡️ Seguridad informática, gestión de controles y cumplimiento tecnológico.</li>
+  <li>🌐 Administración de infraestructura, redes, servidores y servicios tecnológicos.</li>
+  <li>🗄️ Bases de datos, consultas SQL, reportes y análisis de información.</li>
+  <li>💻 Desarrollo web con JavaScript, React, Node.js, HTML y CSS.</li>
+  <li>📊 Creación de dashboards, indicadores y herramientas internas.</li>
+  <li>🎓 Docencia en informática, programación y análisis de sistemas.</li>
 </ul>
 
 <hr>
@@ -45,28 +46,28 @@ También desarrollo soluciones web, dashboards, sistemas internos y herramientas
 
 <table>
   <tr>
-    <td><strong>Desarrollo</strong></td>
-    <td>JavaScript, React, Node.js, HTML, CSS, APIs REST, GitHub</td>
-  </tr>
-  <tr>
-    <td><strong>Bases de Datos</strong></td>
-    <td>SQL Server, consultas SQL, reportes, análisis de información</td>
-  </tr>
-  <tr>
-    <td><strong>Infraestructura TI</strong></td>
-    <td>Servidores, virtualización, redes, firewalls, respaldos, continuidad operativa</td>
+    <td><strong>Gestión de Sistemas</strong></td>
+    <td>Administración tecnológica, soporte institucional, proyectos TI e indicadores de gestión.</td>
   </tr>
   <tr>
     <td><strong>Seguridad Informática</strong></td>
-    <td>Políticas, auditoría, gestión de vulnerabilidades, controles de seguridad</td>
+    <td>Controles de seguridad, auditoría, gestión de riesgos, políticas y seguimiento de hallazgos.</td>
   </tr>
   <tr>
-    <td><strong>Gestión Tecnológica</strong></td>
-    <td>Proyectos TI, soporte, mesa de ayuda, indicadores, informes ejecutivos</td>
+    <td><strong>Infraestructura TI</strong></td>
+    <td>Servidores, redes, firewalls, virtualización, respaldos y continuidad operativa.</td>
+  </tr>
+  <tr>
+    <td><strong>Bases de Datos</strong></td>
+    <td>SQL Server, consultas, reportes, análisis de datos y apoyo a procesos empresariales.</td>
+  </tr>
+  <tr>
+    <td><strong>Desarrollo Web</strong></td>
+    <td>JavaScript, React, Node.js, Express, HTML, CSS, Git y GitHub.</td>
   </tr>
   <tr>
     <td><strong>Docencia</strong></td>
-    <td>Introducción a la Informática, Programación, Algoritmos y Estructuras de Datos</td>
+    <td>Introducción a la Informática, programación, algoritmos y estructuras de datos.</td>
   </tr>
 </table>
 
@@ -74,11 +75,11 @@ También desarrollo soluciones web, dashboards, sistemas internos y herramientas
 
 <h2>🛠️ Lenguajes y herramientas</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,mongodb,linux,figma,vscode" alt="Lenguajes y herramientas" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet"/>
   <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"/>
@@ -92,13 +93,13 @@ También desarrollo soluciones web, dashboards, sistemas internos y herramientas
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hdavider&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=hdavider&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
     alt="Estadísticas de GitHub de Hugo Erazo" 
   />
-</p>
 
-<p align="center">
   <img 
+    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdavider&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
     alt="Lenguajes más usados por Hugo Erazo" 
   />
@@ -106,22 +107,22 @@ También desarrollo soluciones web, dashboards, sistemas internos y herramientas
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hdavider&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=hdavider&theme=tokyonight&hide_border=true&locale=es" 
     alt="Racha de contribuciones de Hugo Erazo" 
   />
 </p>
 
 <hr>
 
-<h2>📌 Proyectos e intereses actuales</h2>
+<h2>📌 Proyectos e intereses profesionales</h2>
 
 <ul>
-  <li>📊 Dashboards para monitoreo, indicadores y toma de decisiones.</li>
-  <li>🔐 Seguridad informática, cumplimiento normativo y protección de datos.</li>
-  <li>🌐 Desarrollo de aplicaciones web empresariales.</li>
-  <li>🧩 Automatización de procesos internos.</li>
-  <li>🖥️ Infraestructura, redes, servidores y continuidad operativa.</li>
-  <li>🤖 Uso de inteligencia artificial para acelerar el desarrollo de software.</li>
+  <li>📊 Desarrollo de dashboards para monitoreo, indicadores y análisis de información.</li>
+  <li>🔐 Seguridad informática, controles tecnológicos y gestión de riesgos.</li>
+  <li>🌐 Aplicaciones web para control de procesos empresariales.</li>
+  <li>🧩 Automatización de tareas internas y mejora operativa.</li>
+  <li>🖥️ Infraestructura, redes, servidores, firewalls y continuidad de servicios.</li>
+  <li>🗄️ Reportes, consultas y análisis de información en bases de datos.</li>
 </ul>
 
 <hr>
@@ -141,5 +142,6 @@ Puedes contactarme por LinkedIn o correo electrónico:
 <hr>
 
 <p align="center">
-  <strong>“La tecnología no solo resuelve problemas, también transforma la forma en que trabajamos, aprendemos y crecemos.”</strong>
+  <strong>“La tecnología debe ser segura, funcional y útil para resolver problemas reales.”</strong>
 </p>
+```
