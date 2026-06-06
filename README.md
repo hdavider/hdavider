@@ -1,26 +1,145 @@
-<h1 align="center">Hola👋, mi nombre es Hugo Erazo</h1>
-<h3 align="center">Soy un desarrollador Junior</h3>
+<h1 align="center">Hola 👋, mi nombre es Hugo Erazo</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hdavider" alt="hdavider" /></a> </p>
+<h3 align="center">
+  Gerente de Sistemas | Seguridad Informática | Desarrollo de Software | Infraestructura TI
+</h3>
 
-- 🌱 Estoy aprendiendo **JavaScript, React**
-
-- 👨‍💻 Aca puedes ver mi perfil profesional [https://www.linkedin.com/in/hdavider/](https://www.linkedin.com/in/hdavider/)
-
-- 💬 Preguntame acerca de **GitHub, HTML, CSS**
-
-- 📫 Contactame **hdavider@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hdavider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hdavider" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hdavider/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hugo%20Erazo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Hugo Erazo"/>
+  </a>
+  <a href="mailto:hdavider@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hdavider%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hugo Erazo"/>
+  </a>
+  <a href="https://github.com/hdavider">
+    <img src="https://img.shields.io/badge/GitHub-hdavider-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub hdavider"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hdavider&show_icons=true&locale=en&layout=compact" alt="hdavider" /></p>
+<h2>👨‍💻 Sobre mí</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hdavider&show_icons=true&locale=en" alt="hdavider" /></p>
+<p>
+Soy profesional de tecnología con experiencia en gestión de sistemas, seguridad informática, infraestructura TI, redes, bases de datos y desarrollo de software.
+Actualmente me desempeño en el área de Sistemas, apoyando proyectos de transformación digital, cumplimiento normativo, ciberseguridad, continuidad operativa y modernización tecnológica.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hdavider&" alt="hdavider" /></p>
+<p>
+Además, tengo experiencia como docente universitario en áreas relacionadas con informática, programación, algoritmos, estructuras de datos y tecnologías aplicadas.
+También desarrollo soluciones web, dashboards, sistemas internos y herramientas para automatizar procesos empresariales.
+</p>
+
+<ul>
+  <li>🚀 Desarrollo de aplicaciones web con JavaScript, React, Node.js y tecnologías modernas.</li>
+  <li>🛡️ Experiencia en Seguridad Informática, cumplimiento normativo y gestión de riesgos tecnológicos.</li>
+  <li>🌐 Administración de infraestructura, redes, servidores, firewalls y servicios en la nube.</li>
+  <li>🗄️ Trabajo con bases de datos SQL Server, consultas, reportes y optimización de procesos.</li>
+  <li>📊 Diseño de dashboards, reportes ejecutivos e indicadores para toma de decisiones.</li>
+  <li>🎓 Docente en áreas de informática, programación y análisis de sistemas.</li>
+</ul>
+
+<hr>
+
+<h2>🧠 Áreas de experiencia</h2>
+
+<table>
+  <tr>
+    <td><strong>Desarrollo</strong></td>
+    <td>JavaScript, React, Node.js, HTML, CSS, APIs REST, GitHub</td>
+  </tr>
+  <tr>
+    <td><strong>Bases de Datos</strong></td>
+    <td>SQL Server, consultas SQL, reportes, análisis de información</td>
+  </tr>
+  <tr>
+    <td><strong>Infraestructura TI</strong></td>
+    <td>Servidores, virtualización, redes, firewalls, respaldos, continuidad operativa</td>
+  </tr>
+  <tr>
+    <td><strong>Seguridad Informática</strong></td>
+    <td>Políticas, auditoría, gestión de vulnerabilidades, controles de seguridad</td>
+  </tr>
+  <tr>
+    <td><strong>Gestión Tecnológica</strong></td>
+    <td>Proyectos TI, soporte, mesa de ayuda, indicadores, informes ejecutivos</td>
+  </tr>
+  <tr>
+    <td><strong>Docencia</strong></td>
+    <td>Introducción a la Informática, Programación, Algoritmos y Estructuras de Datos</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>🛠️ Lenguajes y herramientas</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github,mongodb,linux,figma,vscode" alt="Lenguajes y herramientas" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet"/>
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
+</p>
+
+<hr>
+
+<h2>📊 Dashboard de GitHub</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hdavider&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Estadísticas de GitHub de Hugo Erazo" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdavider&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="Lenguajes más usados por Hugo Erazo" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hdavider&theme=tokyonight&hide_border=true" 
+    alt="Racha de contribuciones de Hugo Erazo" 
+  />
+</p>
+
+<hr>
+
+<h2>📌 Proyectos e intereses actuales</h2>
+
+<ul>
+  <li>📊 Dashboards para monitoreo, indicadores y toma de decisiones.</li>
+  <li>🔐 Seguridad informática, cumplimiento normativo y protección de datos.</li>
+  <li>🌐 Desarrollo de aplicaciones web empresariales.</li>
+  <li>🧩 Automatización de procesos internos.</li>
+  <li>🖥️ Infraestructura, redes, servidores y continuidad operativa.</li>
+  <li>🤖 Uso de inteligencia artificial para acelerar el desarrollo de software.</li>
+</ul>
+
+<hr>
+
+<h2>📫 Contacto</h2>
+
+<p>
+Puedes contactarme por LinkedIn o correo electrónico:
+</p>
+
+<ul>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/hdavider/">linkedin.com/in/hdavider</a></li>
+  <li>Email: <a href="mailto:hdavider@gmail.com">hdavider@gmail.com</a></li>
+  <li>GitHub: <a href="https://github.com/hdavider">github.com/hdavider</a></li>
+</ul>
+
+<hr>
+
+<p align="center">
+  <strong>“La tecnología no solo resuelve problemas, también transforma la forma en que trabajamos, aprendemos y crecemos.”</strong>
+</p>
