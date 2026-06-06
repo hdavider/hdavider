@@ -1,6 +1,4 @@
-Copia este reemplazo completo en tu `README.md` principal:
 
-:::writing{variant="standard" id="73924"}
 <h1 align="center">Hola 👋, mi nombre es Hugo Erazo</h1>
 
 <h3 align="center">
