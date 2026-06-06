@@ -1,4 +1,6 @@
-```html
+Copia este reemplazo completo en tu `README.md` principal:
+
+:::writing{variant="standard" id="73924"}
 <h1 align="center">Hola 👋, mi nombre es Hugo Erazo</h1>
 
 <h3 align="center">
@@ -97,7 +99,9 @@ Me interesa desarrollar soluciones prácticas, seguras y funcionales que ayuden 
     src="https://github-readme-stats.vercel.app/api?username=hdavider&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
     alt="Estadísticas de GitHub de Hugo Erazo" 
   />
+</p>
 
+<p align="center">
   <img 
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdavider&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
@@ -144,4 +148,4 @@ Puedes contactarme por LinkedIn o correo electrónico:
 <p align="center">
   <strong>“La tecnología debe ser segura, funcional y útil para resolver problemas reales.”</strong>
 </p>
-```
+:::
